@@ -1,4 +1,15 @@
-title: CHCIC
-logo:
-theme: jukyll-theme-minimal
-LinkedIn: https://www.linkedin.com/in/chia-sheng-tu/
+title: ChiaShengTu  
+
+logo: C:\Users\USER\OneDrive\桌面\23勤業\DTT Profile pic.jpg 
+
+description: Porfolio 
+
+show_downloads: true 
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: chiashengtu@utexas.edu
+
